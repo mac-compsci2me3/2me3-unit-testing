@@ -1,3 +1,5 @@
+package mcmaster.compsci;
+
 public class ArrayUtils {
     public int findSmallestMissingPositive(int[] array) {
         int n = array.length;

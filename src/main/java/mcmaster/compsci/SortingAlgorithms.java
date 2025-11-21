@@ -1,3 +1,5 @@
+package mcmaster.compsci;
+
 public class SortingAlgorithms {
 
     // Selection Sort

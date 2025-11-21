@@ -1,5 +1,6 @@
-import static org.junit.jupiter.api.Assertions.*;
+package mcmaster.compsci;
 
+import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 

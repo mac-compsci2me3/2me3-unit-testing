@@ -1,3 +1,5 @@
+package mcmaster.compsci;
+
 public class RangeCategorizer {
 
     public String categorize(int number) {
